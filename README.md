@@ -1,8 +1,8 @@
 # Koanyx-Tcp-clint
 A lightweight, educational TCP client written in Python that demonstrates raw socket programming. This tool allows you to connect directly to any TCP server, send custom data, and receive responses - showing you exactly what happens "under the hood" of network communications. 
 What Does It Do?
-This TCP client acts like a universal network telephone - it can call any computer/server and have a raw conversation. Unlike web browsers that hide the technical details, this tool shows you the actual data b![Screenshot](https://github.com/user-attachments/assets/52ef3281-c0cb-4bf9-8997-81f74d48ccdd)
-eing exchanged.
+This TCP client acts like a universal network telephone - it can call any computer/server and have a raw conversation. Unlike web browsers that hide the technical details, this tool shows you the actual data being exchanged. ![Screenshot](https://github.com/user-attachments/assets/52ef3281-c0cb-4bf9-8997-81f74d48ccdd)
+
 
 Core Functionality:
 Establishes TCP connections to any host and port
